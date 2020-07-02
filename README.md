@@ -1,2 +1,1 @@
-# test
-My first Project
+# Php script to find prime number
